@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #153eaf;
+    color: rgb(214, 219, 185);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.hasil {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+}
+
+img {
+    width: 30%;
+    height: auto;
+  }
+
+  body {
+    text-align: center;
+  }
+  
+  .parent-of-label {
+    text-align: center;
+  }
+  
+  body {
+    background-image: url("images/background.png");
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+  }
+  
